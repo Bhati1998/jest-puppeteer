@@ -30,7 +30,7 @@ jest-puppeteer is an MIT-licensed open source project. It's an independent proje
 
 ### Gold Sponsors
 
-Gold Sponsors are those who have pledged \$100/month and more to jest-puppeteer.
+Gold Sponsors are those who have pledged \$100/month and more to jest-puppeteer..
 
 [![gold-sponsors](https://opencollective.com/jest-puppeteer/tiers/gold-sponsors.svg?avatarHeight=120&width=600)](https://opencollective.com/jest-puppeteer/order/6045)
 
